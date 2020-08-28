@@ -1,2 +1,3 @@
 # snowcode-2020
-official snowcode 2020 repo
+
+Official repo for the snowcode 2020 developer un-conference.
